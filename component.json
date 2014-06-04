@@ -2,10 +2,10 @@
   "name": "dotdotdot",
   "repo": "virtru-components/dotdotdot",
   "description": "A jQuery plugin for advanced cross-browser ellipsis on multiple line content.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [],
   "dependencies": {
-    "components/jquery": "2.1.0"
+    "virtru-components/jquery": "2.1.0"
   },
   "development": {},
   "license": "MIT",
